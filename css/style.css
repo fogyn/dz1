@@ -1,0 +1,19 @@
+h1{
+    color:aqua
+}
+.divmain{
+    
+    margin: 200px;
+    border: 5px black solid;
+}
+.div2{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+img{
+    display: inline;
+}
+.in{
+    display: inline;
+    border: 3px green solid;
+}
