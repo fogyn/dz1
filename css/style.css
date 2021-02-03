@@ -1,19 +1,40 @@
 h1{
-    color:aqua
+    margin: 0px;
+    margin-left: 200px;
+    color:chocolate;
 }
 .divmain{
     
     margin: 200px;
-    border: 5px black solid;
+    border: 5px blue solid;
+}
+.div1{
+    margin-top: 50px;
+    margin-left: 0px;
+    margin-bottom: 20px;
 }
 .div2{
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-left: 180px;
+    margin-right: 180px;
+    margin-bottom: 50px;
 }
+.in2{
+    display: inline-block;
+    width: 255px;
+    height: 250px;
+    padding-left: 20px;
+    
+    }
 img{
-    display: inline;
-}
-.in{
-    display: inline;
-    border: 3px green solid;
+    
+    width: 255px;
+    height: 204px;
+    }
+p{
+    margin: 0px;
+    margin-right: 0px;
+    width: 255px;
+    height: 50px;
+    font-size: 20px;
+    
 }
